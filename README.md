@@ -6,6 +6,7 @@
 I’m [@abressiddique](https://portfolio-website-git-master-abressiddiques-projects.vercel.app/), a passionate Full Stack Developer specializing in the MERN stack and Next.js.
 
 
+
 ## 🌱 Currently Learning
 Exploring the latest in web technologies and new frameworks.
 
