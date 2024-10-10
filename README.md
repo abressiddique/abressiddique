@@ -9,8 +9,6 @@ I’m [@abressiddique](https://portfolio-website-git-master-abressiddiques-proje
 
 ## 🌱 Currently Learning
 
-
-
 Exploring the latest in web technologies and new frameworks.
 
 
