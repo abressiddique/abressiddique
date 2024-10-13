@@ -19,6 +19,7 @@ Excited to work on projects involving modern web development and cutting-edge te
 ## 📫 How to Reach Me
 Catch me on [LinkedIn](https://www.linkedin.com/in/abressiddique) or shoot me an [Email](mailto:abressiddique@gmail.com).
 
+
 ## ⚡ Fun Fact
 Quantum computing fascinates me, especially how it could reshape the future of computer science.
 
