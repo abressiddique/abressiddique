@@ -1,8 +1,8 @@
 ![logo](https://github.com/abressiddique/abressiddique/blob/main/github-header-image%20(1).png)
 
-<h1 align="center">Hey there! 👋 I'm Abress Siddique</h1>
+<h1 align="center" style="color: #FF69B4;">Hey there! 👋 I'm Abress Siddique</h1>
 
-<h3 align="center">✨ A passionate Full Stack Developer from India 🌍</h3>
+<h3 align="center" style="color: #1E90FF;">✨ A passionate Full Stack Developer from India 🌍</h3>
 
 ---
 
@@ -15,15 +15,15 @@
 
 ---
 
-🌱 **Currently Learning**: DevOps practices to elevate my skills and streamline development processes.  
-👨‍💻 **Projects**: Check out my creations [here](https://abressiddique.vercel.app/)!  
-💬 **Ask me about**: MERN, Next.js, or Data Structures & Algorithms!  
-📫 **Get in Touch**: Feel free to drop a message at **abressiddique@gmail.com**  
-📄 **My Resume**: Discover my journey and experiences [here](https://docs.google.com/document/d/1U5loVKQifMbD79IX_DZBspGvtEpZKEGmYc890nrGAqc/edit?tab=t.0).
+🌱 **Currently Learning**: 🌈 *DevOps practices to elevate my skills and streamline development processes.*  
+👨‍💻 **Projects**: 🚀 *Check out my creations [here](https://abressiddique.vercel.app/)!*  
+💬 **Ask me about**: 📚 *MERN, Next.js, or Data Structures & Algorithms!*  
+📫 **Get in Touch**: ✉️ *Feel free to drop a message at **abressiddique@gmail.com***  
+📄 **My Resume**: 📝 *Discover my journey and experiences [here](https://docs.google.com/document/d/1U5loVKQifMbD79IX_DZBspGvtEpZKEGmYc890nrGAqc/edit?tab=t.0).*
 
 ---
 
-<h3 align="left">🔗 Let's Connect!</h3>
+<h3 align="left" style="color: #FF4500;">🔗 Let's Connect!</h3>
 <p align="left">
 <a href="https://twitter.com/abressiddique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abressiddique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
@@ -34,7 +34,7 @@
 
 ---
 
-<h3 align="left">🛠️ Technologies & Tools I Love:</h3>
+<h3 align="left" style="color: #FFD700;">🛠️ Technologies & Tools I Love:</h3>
 <p align="left"> 
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/> </a>
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> </a>
@@ -46,7 +46,7 @@
 
 ---
 
-<h3 align="left">📊 My GitHub Stats:</h3>
+<h3 align="left" style="color: #32CD32;">📊 My GitHub Stats:</h3>
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abressiddique&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
@@ -61,7 +61,7 @@
 
 ---
 
-<h3 align="left">🌟 A Fun Fact About Me:</h3>
-<p align="left">I believe coding is an art form! I enjoy creating elegant solutions and strive to improve every day. Let's collaborate on exciting projects!</p>
+<h3 align="left" style="color: #FF69B4;">🌟 A Fun Fact About Me:</h3>
+<p align="left">I believe coding is an art form! 🎨 I enjoy creating elegant solutions and strive to improve every day. Let's collaborate on exciting projects!</p>
 
 ---
