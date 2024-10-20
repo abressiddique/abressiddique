@@ -1,9 +1,7 @@
-![Header](https://raw.githubusercontent.com/abresindia/abressiddique/main/github-header-image%20(1).png)
-
 
 
 <h1 align="center">Hi 👋, I'm Abres Siddique</h1>
-![Header](./github-header-image (1).png)<!-- Adjust the path if necessary -->
+
 
 <h3 align="center">A passionate full stack developer from India</h3>
 
