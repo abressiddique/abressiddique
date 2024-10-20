@@ -1,5 +1,5 @@
+![Header](https://raw.githubusercontent.com/abresindia/abressiddique/main/github-header-image%20(1).png)
 
-![Header Image](./github-header-image (1).png)
 
 
 <h1 align="center">Hi 👋, I'm Abres Siddique</h1>
