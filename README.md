@@ -1,7 +1,7 @@
 ![logo](https://github.com/abressiddique/abressiddique/blob/main/github-header-image%20(1).png)
 
 
-<h1 align="center">Hi 👋, I'm Abres Siddique</h1>
+<h1 align="center">Hey 👋</h1>
 
 
 <h3 align="center">A passionate full stack developer from India</h3>
