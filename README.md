@@ -1,3 +1,7 @@
+
+![Header Image](./github-header-image (1).png)
+
+
 <h1 align="center">Hi 👋, I'm Abres Siddique</h1>
 ![Header](./github-header-image (1).png)<!-- Adjust the path if necessary -->
 
