@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abres Siddique</h1>
-![Header](./your-header-image-name.png)<!-- Adjust the path if necessary -->
+![Header](./github-header-image (1).png)<!-- Adjust the path if necessary -->
 
 <h3 align="center">A passionate full stack developer from India</h3>
 
