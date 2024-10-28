@@ -19,7 +19,7 @@
 ---
 
 🌱 **Currently Learning**: 🌈 *DevOps practices to elevate my skills and streamline development processes.*  
-👨‍💻 **Projects**: 🚀 *Check out my creations [here](https://abressiddique.vercel.app/)!*  
+👨‍💻 **Projects**: 🚀 *Check out my creations [here](https://abressiddique.github.io/portfolio/)!*  
 💬 **Ask me about**: 📚 *MERN, Next.js, or Data Structures & Algorithms!*  
 📫 **Get in Touch**: ✉️ *Feel free to drop a message at **abressiddique@gmail.com***  
 📄 **My Resume**: 📝 *Discover my journey and experiences [here](https://docs.google.com/document/d/1U5loVKQifMbD79IX_DZBspGvtEpZKEGmYc890nrGAqc/edit?tab=t.0).*
