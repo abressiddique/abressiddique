@@ -6,6 +6,7 @@
 <h3 align="center" style="color: #1E90FF;">✨ A passionate Full Stack Developer from India 🌍</h3>
 ---
 <p align="center">
+  
   <img src="https://img.shields.io/badge/DevOps-Learning-brightgreen" alt="DevOps Badge" />
   <img src="https://img.shields.io/badge/MERN-Stack-ff69b4" alt="MERN Badge" />
   <img src="https://img.shields.io/badge/Next.js-React-blue" alt="Next.js Badge" />
