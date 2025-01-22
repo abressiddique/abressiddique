@@ -56,6 +56,6 @@
 ---
 
 <h3 align="left" style="color: #FF69B4;">🌟 A Fun Fact About Me:</h3>
-<p align="left">I believe coding is an art form! 🎨 I enjoy creating elegant solutions and strive to improve every day. Let's collaborate on exciting projects!</p>
+<p align="left">I have authored several research papers on topics like Quantum Computing and AI. Currently, I’m writing a thesis in AI to become a skilled and innovative AI engineer. 🚀</p>
 
 ---
