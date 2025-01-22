@@ -20,7 +20,8 @@
 
 ---
 
-🌱 **Currently Learning**: 🌈 *DevOps practices to elevate my skills and streamline development processes.*  
+🌱 **Currently Learning**: 🌈 *DevOps practices to elevate my skills and streamline development processes.* I am also exploring **AI and Machine Learning** to expand my expertise and innovate in the tech space.
+
 👨‍💻 **Projects**: 🚀 *Check out my creations [here](https://abressiddique.github.io/portfolio/)!*  
 💬 **Ask me about**: 📚 *MERN, Next.js, or Data Structures & Algorithms!*  
 📫 **Get in Touch**: ✉️ *Feel free to drop a message at **abressiddique@gmail.com***  
