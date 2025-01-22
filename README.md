@@ -54,8 +54,23 @@
 </p>
 
 ---
+### 🌟 About Me 🌟
 
-<h3 align="left" style="color: #FF69B4;">🌟 A Fun Fact About Me:</h3>
-<p align="left">I have authored several research papers on topics like Quantum Computing and AI. Currently, I’m writing a thesis in AI to become a skilled and innovative AI engineer. 🚀</p>
+Hello! I'm **Abres Siddique**, a passionate and versatile **Full Stack Developer** with **5 years of experience**. I’ve been coding since I was in **10th grade** and have honed my skills in **competitive coding**, solving **thousands of problems** along the way.
+
+### Key Highlights:
+- **Full Stack Development**: I’ve worked on **hundreds of web development projects**, building scalable and efficient applications using the **MERN stack** and **Next.js**.
+- **Competitive Coding**: A dedicated competitive coder since my **bachelor’s** days, I’ve solved **thousands of coding challenges**, which has strengthened my problem-solving abilities.
+- **Research**: I’ve written several research papers on topics like **Quantum Computing** and **AI**, and I am currently working on my **Ph.D. thesis in AI**.
+- **AI/ML & DevOps**: I am deeply passionate about **Artificial Intelligence**, **Machine Learning**, and **DevOps**, and I’m actively learning to advance my skills in these areas.
+- **Business & Entrepreneurship**: I am also the **co-founder of Abres Store**, a **women’s fashion brand** that operates all over **India** and exports **Abhaya** to the **Middle East**. I founded this brand in **2022**, with a focus on stylish and modern women’s fashion.
+
+### Education:
+- **BSc IT** & **MCA** – Formal education in **Information Technology**.
+- **Currently pursuing my Ph.D.** with a focus on **AI**.
+
+### Let's Connect:
+Feel free to reach out if you want to collaborate on exciting projects or discuss the latest trends in **AI**, **DevOps**, or **web development**. Let's make something amazing together! 🚀
+"left">I have authored several research papers on topics like Quantum Computing and AI. Currently, I’m writing a thesis in AI to become a skilled and innovative AI engineer. 🚀</p>
 
 ---
