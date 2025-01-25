@@ -66,7 +66,12 @@ Hello! I'm **Abres Siddique**, a passionate and versatile **Full Stack Developer
 - **BSc IT** & **MCA** – Formal education in **Information Technology**.
 - **Currently pursuing my Ph.D.** with a focus on **AI**.
 
+  
+
 ### Let's Connect 🤝:
 Feel free to reach out if you want to collaborate on exciting projects 💡 or discuss the latest trends in **AI** 🤖, **DevOps** ⚙️, or **web development** 🌐. Let’s make something amazing together! 🚀
+
+
+![GitHub GIF](githubgif.gif)
 
 ---
