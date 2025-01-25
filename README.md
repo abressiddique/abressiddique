@@ -2,8 +2,8 @@
 <h3 align="center" style="color: #1E90FF;">✨ A passionate Full Stack Developer from India 🌍</h3>
 
 
-![Header Image](https://github.com/abressiddique/abressiddique/blob/main/github-header-image (2).png)
 
+![Header Image](https://github.com/abressiddique/abressiddique/blob/main/github-header-image%20(2).png)
 
 ---
 <p align="center">
