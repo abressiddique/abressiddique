@@ -16,14 +16,16 @@
 
 ---
 
-🌱 **Currently Learning**: 🌈 *DevOps practices to elevate my skills and streamline development processes.* I am also exploring **AI and Machine Learning** to expand my expertise and innovate in the tech space.
+🌱 **Currently Learning**: 🌈 *DevOps practices to elevate my skills and streamline development processes.* I am also exploring **AI and Machine Learning** to expand my expertise and innovate in the tech space.  
 
-👨‍💻 **Projects**: 🚀 *Check out my creations [here]([https://abressiddique.github.io/portfolio/](https://abressiddique.github.io/AbresSiddique-Portfolio/))!*  
+👨‍💻 **Projects**: 🚀 *Check out my creations at:* https://abressiddique.github.io/AbresSiddique-Portfolio/  
+
 💬 **Ask me about**: 📚 *MERN, Next.js, or Data Structures & Algorithms!*  
-📫 **Get in Touch**: ✉️ *Feel free to drop a message at **abressiddique@gmail.com***  
-📄 **My Resume**: 📝 *Discover my journey and experiences [here](https://docs.google.com/document/d/1U5loVKQifMbD79IX_DZBspGvtEpZKEGmYc890nrGAqc/edit?tab=t.0).*
 
----
+📫 **Get in Touch**: ✉️ *Feel free to drop a message at **abressiddique@gmail.com***  
+
+📄 **My Resume**: 📝 *Discover my journey and experiences at:* https://docs.google.com/document/d/1U5loVKQifMbD79IX_DZBspGvtEpZKEGmYc890nrGAqc/edit?tab=t.0  
+
 <h3 align="left" style="color: #FF4500;">🔗 Let's Connect!</h3>
 <p align="left">
 <a href="https://twitter.com/abressiddique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
