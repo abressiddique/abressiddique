@@ -27,7 +27,7 @@ MERN Stack, Next.js, Data Structures & Algorithms.
 [Email Me](mailto:abressiddique@gmail.com)  
 
 ### 📄 **My Resume**
-📝 [View Here](https://drive.google.com/file/d/1KoS14XmNGDRlOh1_HQu36hH9eh1txCqp/view?usp=drive_link)  
+📝 [View Here](https://drive.google.com/file/d/1KoS14XmNGDRlOh1_HQu36hH9eh1txCqp/view?usp=sharing)  
 
 ---
 
