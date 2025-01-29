@@ -14,17 +14,19 @@
   <img src="https://img.shields.io/badge/DSA-Data_Structures-ff4500" alt="DSA Badge" />
 </p>
 
----
+--------------------------------------------
 
-🌱 **Currently Learning**: 🌈 *DevOps practices to elevate my skills and streamline development processes.* I am also exploring **AI and Machine Learning** to expand my expertise and innovate in the tech space.  
+🌱 **Currently Learning**: Exploring **DevOps** to streamline development processes and **AI/ML** to drive innovation.  
 
-👨‍💻 **Projects**: 🚀 *Check out my creations at:* https://abressiddique.github.io/AbresSiddique-Portfolio/  
+👨‍💻 **Projects**: 🚀 [Check out my portfolio](https://abressiddique.github.io/AbresSiddique-Portfolio/)  
 
-💬 **Ask me about**: 📚 *MERN, Next.js, or Data Structures & Algorithms!*  
+💬 **Ask me about**: MERN Stack, Next.js, Data Structures & Algorithms.  
 
-📫 **Get in Touch**: ✉️ *Feel free to drop a message at **abressiddique@gmail.com***  
+📫 **Get in Touch**: [Email Me](mailto:abressiddique@gmail.com)  
 
-📄 **My Resume**: 📝 *Discover my journey and experiences at:* https://docs.google.com/document/d/1U5loVKQifMbD79IX_DZBspGvtEpZKEGmYc890nrGAqc/edit?tab=t.0  
+📄 **My Resume**: 📝 [View Here](https://drive.google.com/file/d/1KoS14XmNGDRlOh1_HQu36hH9eh1txCqp/view?usp=drive_link)  
+
+--------------------------------------------
 
 <h3 align="left" style="color: #FF4500;">🔗 Let's Connect!</h3>
 <p align="left">
