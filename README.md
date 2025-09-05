@@ -20,7 +20,7 @@
 Exploring **DevOps** to streamline development processes and **AI/ML** to drive innovation.  
 
 ### 👨‍💻 **Projects**
-🚀 [Check out my portfolio](https://abressiddique.github.io/Abress-Portfolio/)  
+🚀 [Check out my portfolio](https://abressiddique.github.io/Abress-AR/)  
 
 ### 💬 **Ask me about**
 MERN Stack, Next.js, Data Structures & Algorithms.  
