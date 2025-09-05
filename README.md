@@ -103,14 +103,17 @@ MERN Stack, Next.js, Data Structures & Algorithms.
 
 ### 🌟 About Me 🌟
 
-Hello! I'm **Abres Siddique**, a passionate and versatile **Full Stack Developer** 💻 with **5 years of experience**. I’ve been coding since I was in **10th grade** 🧑‍💻 and have honed my skills in **competitive coding** 🏆, solving **thousands of problems** along the way.
+### 🌟 About Me 🌟
 
-### Key Highlights:
-- **Full Stack Development** 🖥️: I’ve worked on **hundreds of web development projects**, building scalable and efficient applications using the **MERN stack** and **Next.js** 🚀.
-- **Competitive Coding** 🤖: A dedicated competitive coder since my **bachelor’s** days, I’ve solved **thousands of coding challenges** 🔥, which has strengthened my problem-solving abilities.
-- **Research** 📚: I’ve written several research papers on topics like **Quantum Computing** and **AI** 🤖, and I am currently working on my **Ph.D. thesis in AI** 🎓.
-- **AI/ML & DevOps** ⚙️: I am deeply passionate about **Artificial Intelligence** 🧠, **Machine Learning** 🤖, and **DevOps** 🔧, and I’m actively learning to advance my skills in these areas.
-- **Business & Entrepreneurship** 💼: I am also the **co-founder of Abres Store** 👗, a **women’s fashion brand** that operates all over **India** 🇮🇳 and exports **Abhaya** to the **Middle East** 🌍. I founded this brand in **2022**, with a focus on stylish and modern women’s fashion.
+Hello! I'm **Abres Siddique**, a passionate **Project Manager & Full-Stack Developer** 💻 with a love for technology that started in **10th grade**. I completed my **BSc in IT** at Mahendra Pratap Sharada Prasad Singh College, ranking **1st in my class**, where I specialized in **MERN stack development**. To further advance my expertise, I earned an **MCA** from LATE BHAUSAHEB HIRAY S.S. Trust’s Institute of Computer Application, one of Maharashtra’s top-tier institutions. Currently, I’m pursuing a **PhD in Multi-Agent AI Systems**, exploring cutting-edge AI solutions for real-world projects.
+
+With **6+ years of experience**, I’ve led **full-stack development and end-to-end projects** across **e-commerce, business systems, and technology platforms**. I bring a strong combination of technical expertise and strategic vision to every project I manage. My **core tech stack** includes **MERN, Next.js, and Python**, and I actively engage with **DevOps practices and AI research** to ensure scalable, efficient, and innovative solutions. Ranked in the **Top 1K globally on LeetCode** with **2206+ problems solved**, I leverage analytical and problem-solving skills to drive successful project execution and team performance.
+
+I’ve authored **peer-reviewed research papers** on **Quantum Computing** and the impact of **AI/ML in IT**, bridging academic insights with practical technology strategy. This research mindset enhances my ability to make data-driven decisions and innovate in complex projects.
+
+Beyond technology, I am the **co-founder of @AbresStore**, a **women’s clothing brand** operating across India and exporting to the Middle East. I’ve led all **technology, project management, and operational initiatives**, ensuring projects are delivered efficiently, teams are aligned, and the brand maintains a strong digital presence.
+
+I thrive on **strategic problem-solving, team leadership, and continuous improvement**, always looking for ways to optimize processes and achieve impactful results. My motto is simple—**Plan. Execute. Evolve.** 🚀
 
 ### Education 🎓:
 - **BSc IT** & **MCA** – Formal education in **Information Technology**.
