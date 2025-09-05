@@ -101,7 +101,7 @@ MERN Stack, Next.js, Data Structures & Algorithms.
 
 ---
 
-### 🌟 About Me 🌟
+
 
 ### 🌟 About Me 🌟
 
