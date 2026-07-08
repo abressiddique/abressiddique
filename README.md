@@ -17,7 +17,7 @@
 ---
 
 ### 🌱 **Currently Learning**
-Exploring **DevOps** to streamline development processes and **AI/ML** to drive innovation.  
+Exploring **Multi AI Agents** to streamline development processes and **AI/ML** to drive innovation.  
 
 ### 👨‍💻 **Projects**
 🚀 [Check out my portfolio](https://abressiddique.github.io/Abress-AR/)  
