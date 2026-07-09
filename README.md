@@ -16,8 +16,9 @@
 
 ---
 
-### 🌱 **Currently Learning**
-Exploring **Multi AI Agents** to streamline development processes and **AI/ML** to drive innovation.  
+### 🌱 Current Focus
+
+As a **Project Manager**, I'm passionate about delivering successful software projects while researching **Multi-Agent AI Systems** for next-generation AI applications.
 
 ### 👨‍💻 **Projects**
 🚀 [Check out my portfolio](https://abressiddique.github.io/Abress-AR/)  
